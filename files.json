@@ -1,7 +1,7 @@
 {
     "max_file_size": 52416000,
     "BlackStudio.exe": {
-        "sha256": "eed499472f7301cca3e3d6d0356c2c0159addb9fa8bd7d22b401c615479812bf"
+        "sha256": "0c27b5749a5927c3ae47c27a5a0ba3d453879fc465053c49b5f3427434908703"
     },
     "concrt140.dll": {
         "sha256": "36085f98ac4bddf2fa23d8747dd8586b987660323b389448e1a9fba3251a702c"
@@ -61,7 +61,7 @@
         "sha256": "1794a90e19985ee2dee89f9bdffac8dcb3676e2555db9469384493d14708aed5"
     },
     "lib/library.zip": {
-        "sha256": "3f6485eeb8403abe0ecfbc58a569b6e773bf4231e0b9028db171a4988ea21a08"
+        "sha256": "b6571f6200b6257b92186b28b3907efdc3c408322aae039f6211dfa6b3f92b43"
     },
     "lib/libssl-3.dll": {
         "sha256": "007142039f04d04e0ed607bda53de095e5bc6a8a10d26ecedde94ea7d2d7eefe"
@@ -655,10 +655,10 @@
         "sha256": "ee83e3b9ad9ffcdf136773dd265f57d1c575ae235c7111b597c6961191bf8d6a"
     },
     "lib/BlackStudioUpdater/HAIPUpdaterAPI.pyc": {
-        "sha256": "7abe8a1c06a09f76bcc6ec9996b4b0abf2560be5c6903b67b72f95b5ed73b076"
+        "sha256": "a7ef16c7ea8a69406f467f7121cb63e5b6dd24bed8c38c711d78a5c8189ef029"
     },
     "lib/BlackStudioUpdater/__init__.pyc": {
-        "sha256": "fbb286ea7d0558041930e9978f17e78d039d5050cd2cf74a1b7ee1a073573f84"
+        "sha256": "65acde7c88f45fe00a70d378830bfb131bee0bc2f8e8ebdbd2bc6746ef3da27b"
     },
     "lib/certifi/cacert.pem": {
         "sha256": "2b7b1026f18a297e2148189ca0cbe7d3e7f9efc36f7231ccc2820a404feb5596"
@@ -1171,7 +1171,7 @@
         "sha256": "40c674fe5237a2b3ede24307caba1bafdfdf679d9e56a9fe319491d7867b5f4b"
     },
     "lib/cv2/gapi/wip/draw/__init__.pyc": {
-        "sha256": "059de8f953f5c350418c5f8e311a6e8524206731c4c9b6b1c85e155adf1cf266"
+        "sha256": "e09e0b9aff0098ea613a1aeb4c72fddc3ce8072e6f11a1670cc415088d979d47"
     },
     "lib/cv2/mat_wrapper/__init__.pyc": {
         "sha256": "34dab58f046df6deea6eca1940dbbfb7bf70916b8d35ef5a7c83dd951805e6da"
@@ -4183,7 +4183,7 @@
         "sha256": "f71c534e413d3083f8c45370991bccf63d107e516ba9c15ba3008079d1a176aa"
     },
     "lib/mpl_toolkits/__init__.pyc": {
-        "sha256": "a5f1d25e30fabfe584da7ca47b4f5429ab8807bd6599ccef69ac69f92da4ca0d"
+        "sha256": "5d2b709feed4eb6d4ef9a60f1befd3def3930b4601b2f04463f7842c557fc29e"
     },
     "lib/mpl_toolkits/axes_grid1/axes_divider.pyc": {
         "sha256": "b772e916abc8132d091c403773515df534a57cbafedf01691491b50875a1150d"
@@ -17626,7 +17626,7 @@
         "sha256": "c8425ad78237164e31efbf859a857b02e098fcf4b37caadc1a725d21490f5f3f"
     },
     "lib/pywin32_system32/__init__.pyc": {
-        "sha256": "10b47a1d35f9f3becdaf7265d67009a386290d3261c8ce349ff48b3c51b28322"
+        "sha256": "2bb32790e3130cdb6e244f36695ba25b03c7c35c21176c67977dee41926a4488"
     },
     "lib/re/_casefix.pyc": {
         "sha256": "33ef64af4df6a4116b195fc6f0684e57c15107fdc9db20d53331f9a749c4c5ff"
@@ -23965,7 +23965,7 @@
         "sha256": "011ff9f74be52f1f0fc3e0c14c863de05971e171f933ccf5b69d23f466b43fc1"
     },
     "res/BlackStudioUpdater/BlackStudioUpdater.exe": {
-        "sha256": "2c5d571bb5609ae274bab081b90dff1d9ee64c7c203341fd0f4547e089a91c21"
+        "sha256": "0cd9f6ba5b273c27acd55b8c1cb3862b87aa5f96ebb7d8471a64bb601a079550"
     },
     "res/BlackStudioUpdater/libcrypto-3.dll": {
         "sha256": "ccfffddcd3defb8d899026298af9af43bc186130f8483d77e97c93233d5f27d7"
@@ -24178,7 +24178,7 @@
         "sha256": "14db1d573f7ba8f41563bbc7cda6f1a46e5f86c1b7096d298593971a0b1c6c60"
     },
     "res/BlackStudioUpdater/_internal/base_library.zip": {
-        "sha256": "a56051c310afecd2ca6b4f21d6872f697ad9a16a27fa7a3615d42a186980c677"
+        "sha256": "b21092a3dbab307ad139b5771b190f977734c3fec4f0344252ffdbcc41edc536"
     },
     "res/BlackStudioUpdater/_internal/libcrypto-3.dll": {
         "sha256": "ccfffddcd3defb8d899026298af9af43bc186130f8483d77e97c93233d5f27d7"
